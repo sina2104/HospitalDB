@@ -4,7 +4,6 @@ C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\ne
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\DatabaseSqlHospital.dll
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\DatabaseSqlHospital.pdb
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.csproj.AssemblyReference.cache
-C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.Form1.resources
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.csproj.GenerateResource.cache
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.AssemblyInfoInputs.cache
@@ -33,3 +32,11 @@ C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\ne
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.csproj.CopyComplete
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.doctors.resources
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.Register.resources
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.patients.resources
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\obj\Debug\net6.0-windows\DatabaseSqlHospital.Form1.resources
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\Pipelines.Sockets.Unofficial.dll
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\StackExchange.Redis.dll
+C:\Users\sinaa\source\repos\DatabaseSqlHospital\DatabaseSqlHospital\bin\Debug\net6.0-windows\Utf8Json.dll
